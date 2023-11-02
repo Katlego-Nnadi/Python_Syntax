@@ -8,7 +8,7 @@
 - [Operators](#Operators)
 
 
-##Intro-to-Python
+## Intro-to-Python
 
 
 History of Python
@@ -58,7 +58,7 @@ Double quote (useful in strings enclosed in single quotes: “hello \ “World�
 •	If you do not want to use the \n escape sequence, you can use three single quotes ‘’’ or three double quotes “""characters.
 
 
-##Variables
+## Variables
 
 
 Python Variables
@@ -198,7 +198,7 @@ For example. casting from an integer variable to a floating-point variable or ca
 •	Explicitly: A value cannot be automatically cast from one data type to another if it will result in data loss. Extra code has to be written to ensure that the value stays the same and only the data type changes.
 For example, casting from a floating-point value to an integer value.
 
-##Data-Types
+## Data-Types
 
 
 
@@ -285,7 +285,7 @@ x = lambda a : a + 10
 print(x(5))
 
 
-##Operators
+## Operators
 
 
 •	Operators are used to perform operations on variables and values.
