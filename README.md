@@ -9,6 +9,8 @@
 
 
 ##Intro-to-Python
+
+
 History of Python
 •	Python is a popular programming language. It was created by Guido van Rossum and released in 1991.
 •	Python strikes a good balance between fast compilations and readability.
@@ -57,6 +59,8 @@ Double quote (useful in strings enclosed in single quotes: “hello \ “World�
 
 
 ##Variables
+
+
 Python Variables
 •	Variables are a temporary storage space in a computer’s memory.
 •	Variables are containers for storing data values.
@@ -195,7 +199,9 @@ For example. casting from an integer variable to a floating-point variable or ca
 For example, casting from a floating-point value to an integer value.
 
 ##Data-Types
-Data Types
+
+
+
 Data types covered in this course include:
  Data Types
  Examples
@@ -280,6 +286,7 @@ print(x(5))
 
 
 ##Operators
+
 
 •	Operators are used to perform operations on variables and values.
 •	Operators are used to testing conditions and manipulating values.
